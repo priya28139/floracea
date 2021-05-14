@@ -2,42 +2,42 @@ const categories = [
   {
     id: 'plants',
     name: 'Plants',
-    image: '~/assets/images/plant.png',
+    image: '~/assets/icons/plant.png',
     count: 147,
     tags: ['products', 'inspirations'],
   },
   {
     id: 'seeds',
     name: 'Seeds',
-    image: '~/assets/images/seed.png',
+    image: '~/assets/icons/seed.png',
     count: 16,
     tags: ['products', 'shop'],
   },
   {
     id: 'flowers',
     name: 'Flowers',
-    image: '~/assets/images/flower.png',
+    image: '~/assets/icons/flower.png',
     count: 68,
     tags: ['products', 'inspirations'],
   },
   {
     id: 'sprayers',
     name: 'Sprayers',
-    image: '~/assets/images/sprayer.png',
+    image: '~/assets/icons/sprayer.png',
     count: 17,
     tags: ['products', 'shop'],
   },
   {
     id: 'pots',
     name: 'Pots',
-    image: '~/assets/images/pot.png',
+    image: '~/assets/icons/pot.png',
     count: 47,
     tags: ['products', 'shop'],
   },
   {
     id: 'fertilizers',
     name: 'Fertilizers',
-    image: '~/assets/images/fertilizer.png',
+    image: '~/assets/icons/fertilizer.png',
     count: 9,
     tags: ['products', 'shop'],
   },
@@ -69,7 +69,7 @@ const profile = {
   monthly_cap: 5000,
   notifications: true,
   newsletter: false,
-  profile: require('~/assets/profile.png'),
+  profile: require('~/assets/images/profile.png'),
 };
 
 const explore = [
